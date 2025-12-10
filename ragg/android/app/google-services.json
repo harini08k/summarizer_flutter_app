@@ -28,7 +28,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAtHnSLi5tLGpi7BduudXcL2vOw3DAvsrg"
+          "current_key": os.getenv("API_KEY")
         }
       ],
       "services": {
