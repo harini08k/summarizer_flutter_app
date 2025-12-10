@@ -13,12 +13,8 @@ Users can sign in securely using Google authentication.
 ---
 
 ## 2. Document Picker
-Users can select PDF, DOCX, or TXT files to summarize.  
+Users can select PDF, DOCX, or TXT files to summarize. Users need to specify their requirements.  
 ![Document Picker](screenshots/document_picker.jpg)
-
----
-
-Users need to specify their requirements.
 ![Requirements](screenshots/requirements.jpg)
 
 ---
@@ -42,6 +38,7 @@ View, revisit, or delete previously generated summaries stored in Firestore.
 ---
 
 This screenshot shows the integration of local storage using **Firebase**
+
 ![Cloud Firestore](screenshots/local_storage_firebase.jpg)
 
 ---
