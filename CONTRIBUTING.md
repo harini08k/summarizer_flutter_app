@@ -1,6 +1,3 @@
-# **CONTRIBUTING.md**
-
-````md
 # Contributing Guidelines
 
 Thank you for considering contributing to the Document Summarizer App!  
