@@ -151,8 +151,16 @@ flutter run
 ---
 
 ## Contributing
+Contributions are always welcome!
 
-Pull requests are welcome!
+If you'd like to contribute:
+1. Fork the repository  
+2. Create a new feature branch (`git checkout -b feature-name`)  
+3. Commit your changes  
+4. Push the branch  
+5. Open a Pull Request  
+
+Please read the full guidelines in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 ---
 
@@ -171,4 +179,3 @@ See the full text in the [LICENSE](./LICENSE) file.
 
 ⭐ If you found this project helpful, give it a star!
 
----
