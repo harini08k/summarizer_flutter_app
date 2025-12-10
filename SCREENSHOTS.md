@@ -16,6 +16,7 @@ Users can sign in securely using Google authentication.
 Users can select PDF, DOCX, or TXT files to summarize.  
 ![Document Picker](screenshots/document_picker.jpg)
 
+---
 
 Users need to specify their requirements.
 ![Requirements](screenshots/requirements.jpg)
