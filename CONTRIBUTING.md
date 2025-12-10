@@ -49,5 +49,3 @@ If you find a bug or want to suggest a feature, open an issue with:
 * Screenshots/logs if applicable
 
 Thanks for helping make this project better!
-
-````
