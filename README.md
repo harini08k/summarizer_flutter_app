@@ -34,7 +34,7 @@ Users can upload documents (PDF, DOCX, TXT), preview them, and generate concise 
 ```
 summarizer_flutter_app/
 │── ragg/      # Flutter UI
-│── backend/           # Flask backend
+│── backend/   # Flask backend
 │── README.md
 ```
 
