@@ -150,19 +150,22 @@ flutter run
 
 ---
 
-# Contributing
+## Contributing
 
 Pull requests are welcome!
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 This project uses Google Gemini API.
 Make sure **API keys are stored securely** and not committed to GitHub.
 
 ---
-
-# ⭐ If you found this project helpful, give it a star!
+## License
+This project is licensed under the MIT License.  
+See the full text in the [LICENSE](./LICENSE) file.
+---
+### ⭐ If you found this project helpful, give it a star!
 
 ---
