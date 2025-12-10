@@ -42,7 +42,6 @@ summarizer_flutter_app/
 For app screenshots, see [SCREENSHOTS.md](./SCREENSHOTS.md)
 
 ---
-
 # Backend Setup (Flask)
 
 ### 1. Navigate to the backend folder:
