@@ -37,6 +37,9 @@ summarizer_flutter_app/
 │── backend/   # Flask backend
 │── README.md
 ```
+# Implementation Screenshots
+
+For app screenshots, see [SCREENSHOTS.md](./SCREENSHOTS.md)
 
 ---
 
