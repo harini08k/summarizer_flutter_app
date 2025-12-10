@@ -163,9 +163,12 @@ Make sure **API keys are stored securely** and not committed to GitHub.
 
 ---
 ## License
+
 This project is licensed under the MIT License.  
 See the full text in the [LICENSE](./LICENSE) file.
+
 ---
-### ⭐ If you found this project helpful, give it a star!
+
+⭐ If you found this project helpful, give it a star!
 
 ---
