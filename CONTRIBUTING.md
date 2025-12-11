@@ -1,7 +1,7 @@
 # Contributing Guidelines
 
 Thank you for considering contributing to the Document Summarizer App!  
-We welcome all kinds of contributions : bug fixes, improvements, or new features.
+All kinds of contributions are welcome: bug fixes, improvements, or new features.
 
 ## How to Contribute
 
